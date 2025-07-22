@@ -1,0 +1,24 @@
+CREDITS
+
+This personal website was built by Andrew Smith for storing and tracking Magic: The Gathering drafts with "The Boys".
+
+Tools and Libraries Used:
+- HTML5 & CSS3
+- Normalize.css — https://necolas.github.io/normalize.css/
+- Google Fonts (Roboto) — https://fonts.google.com/
+- Font Awesome Icons — https://fontawesome.com/
+- Image on landing page from Unsplash — https://unsplash.com/photos/example
+
+Special thanks:
+- Dusty Earl - financing the site
+- Buck Nasty - bringing us all together
+- The Boys:
+    - James H.
+    - Jacob M.
+    - Matt E.
+    - Amos E.
+    - Judah E.
+    - Macaela
+    - Adam
+    - Josh C.
+    - Jacob S.
